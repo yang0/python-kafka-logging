@@ -1,2 +1,2 @@
-kafka-python==0.9.5
+kafka-python==1.4.7
 logstash-formatter==0.5.8

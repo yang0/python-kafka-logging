@@ -1,6 +1,8 @@
 ===============================
 Python Kafka Logging Handler
 ===============================
+支持python3
+
 .. image:: https://img.shields.io/pypi/d/python-kafka-logging.svg
     :target: https://pypi.python.org/pypi/python-kafka-logging/
     :alt: Downloads

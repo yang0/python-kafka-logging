@@ -32,13 +32,13 @@ with open('README.rst', 'r', 'utf-8') as f:
 
 setup(
     name='python_kafka_logging',
-    version=0.6,
+    version=0.8,
     description='Simple python logging handler for forwarding logs to a kafka server.',
     long_description=readme + '\n\n',
     maintainer="Taykey INC",
-    maintainer_email="github@taykey.com",
+    maintainer_email="yang0@126.com",
     author='Avihoo Mamka',
-    author_email='avihoo@taykey.com',
+    author_email='yang0@126.com',
     url='https://github.com/taykey/python-kafka-logging',
     packages=packages,
     package_data={'': ['LICENSE.txt', 'README.rst']},
@@ -52,6 +52,6 @@ setup(
         'Natural Language :: English',
         'License :: OSI Approved :: Apache Software License',
         'Programming Language :: Python',
-        'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 3.6',
     ),
 )
